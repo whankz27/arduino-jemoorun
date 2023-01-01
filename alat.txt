@@ -1,0 +1,11 @@
+1.NodeMCU ESP 8266
+2.Sensor Suhu DHT11
+3.Sensor LDR
+4.Sensor Hujan
+5.Servo SG90
+6.Laptop
+7.Smartphone Android
+8.Aplikasi Telegram
+9.Apikasi Arduino IDE
+10.Kabel Jamper
+11.Project Board
